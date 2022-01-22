@@ -2,8 +2,8 @@
 
 Full-stack developer @LonewolfCorp.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Gonçalves-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-goncanna/)](https://www.linkedin.com/in/rafael-goncanna/) 
-[![Gmail Badge](https://img.shields.io/badge/-rafael.goncanna@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.goncanna@gmail.com)](mailto:rafael.goncanna@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Gonçalves-539BF5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-goncanna/)](https://www.linkedin.com/in/rafael-goncanna/) 
+[![Gmail Badge](https://img.shields.io/badge/-rafael.goncanna@gmail.com-D64B3E?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.goncanna@gmail.com)](mailto:rafael.goncanna@gmail.com)
 
 Enthusiast of the best Web Technologies.
 
