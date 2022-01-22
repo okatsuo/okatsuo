@@ -7,7 +7,7 @@ Full-stack developer @LonewolfCorp.
 
 Enthusiast of the best Web Technologies.
 
-Passionate about learning ways to solve problems and share knowledge. I like to be the piece that covers the weak part of a team and walk together to victory.
+Passionate about learning ways to solve problems and share knowledge. I like to be the piece that covers the weak part of the team to walk together to victory.
 
 "No one is so wise that he doesn't have something to learn and no one is so foolish that he doesn't have something to teach." - Blaise Pascal
 
