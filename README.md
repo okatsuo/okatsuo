@@ -9,7 +9,7 @@ Enthusiast of the best Web Technologies.
 
 Passionate about learning ways to solve problems and share knowledge. I like to be the piece that covers the weak part of the team to walk together to victory.
 
-"No one is so wise that he doesn't have something to learn and no one is so foolish that he doesn't have something to teach." - Blaise Pascal
+"No one is so wise that does not have something to learn, and no one is so foolish that does not have something to teach." - Blaise Pascal
 
 <div style="display: inline_block"><br>
   <img align="center" alt="typescript icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
