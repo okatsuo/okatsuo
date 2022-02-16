@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-rafael.goncanna@gmail.com-D64B3E?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.goncanna@gmail.com)](mailto:rafael.goncanna@gmail.com)
 
 
-Full-stack developer @LonewolfCorp.
+Full-stack developer @Ewally.
 
 <img src="https://i.ibb.co/QJZdmpv/XOsX.gif" width="100" height="100" />
 
