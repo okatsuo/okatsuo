@@ -15,9 +15,9 @@ Passionate about learning ways to solve problems and share knowledge. I like to 
 "No one is so wise that does not have something to learn, and no one is so foolish that does not have something to teach." - Blaise Pascal
 
 <div align="center">
-  <a href="https://github.com/oKatsuo">
-  <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api?username=oKatsuo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oKatsuo&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/okatsuo">
+  <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api?username=okatsuo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okatsuo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -32,5 +32,5 @@ Passionate about learning ways to solve problems and share knowledge. I like to 
   <img align="center" alt="docker icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" >
   <img align="center" alt="Logo-Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
   <img align="center" alt="Logo-Prisma" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg">
-  </div>
+</div>
 
