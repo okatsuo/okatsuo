@@ -16,7 +16,7 @@ Passionate about learning ways to solve problems and share knowledge. I like to 
 
 <div align="center">
   <a href="https://github.com/okatsuo">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=okatsuo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api username=okatsuo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okatsuo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
