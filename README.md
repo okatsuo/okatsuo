@@ -30,5 +30,7 @@ Passionate about learning ways to solve problems and share knowledge. I like to 
   <img align="center" alt="html5 icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css3 icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="docker icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" >
-</div>
+  <img align="center" alt="Logo-Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
+  <img align="center" alt="Logo-Prisma" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg">
+  </div>
 
