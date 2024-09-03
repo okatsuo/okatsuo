@@ -11,7 +11,7 @@ Full-stack developer @Ewally.
 
 Enthusiast of the best Web Technologies.
 
-Passionate about learning ways to solve problems and share knowledge. I like to be the piece that covers the weak part of the team to walk together to victory.
+Passionate about learning ways to solve problems and share knowledge.
 
 "No one is so wise that does not have something to learn, and no one is so foolish that does not have something to teach." - Blaise Pascal
 
