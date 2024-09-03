@@ -15,11 +15,6 @@ Passionate about learning ways to solve problems and share knowledge.
 
 "No one is so wise that does not have something to learn, and no one is so foolish that does not have something to teach." - Blaise Pascal
 
-<div align="left">
-  <a href="https://github.com/okatsuo">
-  <img height="180em" width="48%" src=https://github-readme-stats.vercel.app/api?username=okatsuo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true%22/>
-  </div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="typescript icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="graphql icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" >
